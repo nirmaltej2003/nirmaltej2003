@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yerramsetty Nirmal Sai Teja</h1>
-<h3 align="center">Java Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmaltej2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
