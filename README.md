@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmaltej2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/nirmaltej2003?label=Followers&style=flat&color=0e75b6" />
 </p>
 
 ---
@@ -16,15 +15,6 @@
 
 ---
 
-### 🏅 Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java%20Full%20Stack-JSpiders-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Java%20Skill%20Up-GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/Programming%20in%20Java-NPTEL-blue?style=for-the-badge&logo=google-scholar" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
